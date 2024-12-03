@@ -38,8 +38,8 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 ### 🌐 Let's Connect!  
 
 Feel free to connect with me to collaborate on exciting projects or just have a friendly tech chat! 😊  
-- [Portfolio](#)  
-- [LinkedIn](https://www.linkedin.com/in/vishalkachare63/)  
+- [Portfolio](https://myportfolio-d95pn2pqx-vishals-projects-eaadedde.vercel.app/)  
+- [LinkedIn](https://www.linkedin.com/in/vishal-kachare-53061527a/)  
 
 ---
 
