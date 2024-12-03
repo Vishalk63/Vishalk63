@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 - 💬 Ask me about **React.js, Redux Toolkit, Node.js, MongoDB, and Tailwind CSS**.  
 - 📫 How to reach me:  
   - **Email**: vishalkachare63@gmail.com  
-  - **LinkedIn**: [Vishal Shivaji Kachare](https://www.linkedin.com/in/vishalkachare63/)  
+  - **LinkedIn**: [Vishal Shivaji Kachare](https://www.linkedin.com/in/vishal-kachare-53061527a/)  
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new technologies, reading tech blogs, and gaming. 🎮  
 
 ---
