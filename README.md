@@ -52,22 +52,11 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 
 
 
-### 🛠️ API Testing & Development
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-181717?style=flat-square&logo=thunder-client&logoColor=white)
 
----
 
-### 📚 Data Structures & Algorithms
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)
-![Hackerrank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)
-![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-058E3F?style=flat-square&logo=geeksforgeeks&logoColor=white)
-
----
-
-### 🛠️ Miscellaneous
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 
 ---
