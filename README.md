@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF" align="right">  
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100vh" alt="Coding GIF" align="right">  
 
 
 ## Hi there 👋 I'm Vishal Shivaji Kachare!  
