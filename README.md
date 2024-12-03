@@ -40,17 +40,10 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 
 ### 📈 GitHub Stats  
 
-![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishalk63&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalk63&layout=compact&theme=radical)  
-
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vishalk63&show_icons=true&theme=radical" alt="Vishal's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishalk63&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </div>
-
-
 
 ---
 
