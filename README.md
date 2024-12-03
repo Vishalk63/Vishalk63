@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF" align="right">  
+
+
 ## Hi there 👋 I'm Vishal Shivaji Kachare!  
 
 Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a keen interest in building dynamic, scalable, and user-friendly web applications. 🚀  
@@ -13,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 - 💬 Ask me about **React.js, Redux Toolkit, Node.js, MongoDB, and Tailwind CSS**.  
 - 📫 How to reach me:  
   - **Email**: vishalkachare323@gmail.com  
-  - **LinkedIn**: [Go](https://www.linkedin.com/in/vishal-kachare-53061527a/)  
+  - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/vishal-kachare-53061527a/)  
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new technologies, reading tech blogs, and gaming. 🎮  
 
 ---
