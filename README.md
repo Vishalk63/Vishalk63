@@ -51,52 +51,6 @@ Welcome to my GitHub profile! I'm a passionate **MERN Stack Developer** with a k
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-
-
-### 🌐 Languages
-
----
-
-### 🖥️ Frontend
-
-
----
-
-### 🔧 Backend
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 🌩️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
----
-
-### 🛠️ Dev Tools
-
-
----
-
-### 🎨 Design Tools
-
----
-
-### 🚀 Deployment & CI/CD
-
----
-
-
-
-
 ---
 
 ### 📈 GitHub Stats  
